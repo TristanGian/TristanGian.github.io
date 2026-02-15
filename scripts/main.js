@@ -38,7 +38,7 @@ function setup() {
 	// makes new balls and updates red/blue and left/right accordingly
 	for (let i = 0; i < ballCount; i++) {
 		let color;
-		let randomBool = false;
+		let randomBool = true;
 
 		if (randomBool) {
 			// fill both boxes
